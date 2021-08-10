@@ -1,7 +1,7 @@
 ![Rakib Uddin](https://visitor-badge.glitch.me/badge?page_id=RAKIBUDDIN56.RAKIBUDDIN56)
 
 
-### Hi, Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, Developers <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align="right" alt="Developer Rakib Uddin" src="code.gif" width="500" height="320" />
 
 <!-- - 😄 Pronouns me as `/ue-saw-ma/`
